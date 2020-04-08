@@ -5,4 +5,6 @@ Final_01 is the last version of the developed code.
 
 Before runing the code it is necessary to download 'iris1.right.txt', 'iris2.left.txt', 'iris2.right.txt', 'iris3.left.txt', 'iris3.right.txt', 'iris4.left.txt' and 'iris4.right.txt' files and put them in the working folder.
 
-Post-processing output will be saved in form of 4 graphs with pdf format.
+Post-processing output will be saved in form of 4 graphs with pdf format in the working folder.
+
+For any questions, please email Saeid.Pirani@ess.eu
